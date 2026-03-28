@@ -1,0 +1,4 @@
+crds:
+  gatewayAPI:
+    enabled: true
+    channel: standard # Available options: standard, experimental

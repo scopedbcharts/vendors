@@ -1,0 +1,18 @@
+apiVersion: v2
+name: gateway-api-crds
+description: A ScopeDB vendors Helm chart for Gateway API CRDs
+type: application
+
+version: 1.5.1
+appVersion: 1.5.1
+
+keywords:
+  - gateway-api
+  - crds
+
+sources:
+  - https://github.com/scopedbcharts/vendors
+
+maintainers:
+  - name: ScopeDB
+    url: https://github.com/scopedb/scopedb-helm-charts
