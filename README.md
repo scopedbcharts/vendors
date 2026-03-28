@@ -1,2 +1,3 @@
-# vendors
-ScopeDB vendors third-party Helm charts.
+# ScopeDB vendors third-party Helm charts
+
+This is a set of Helm Charts vendored by ScopeDB.
